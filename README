@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1653
+
+This is for Wildfire 2.  I doubt there are big changes in 3, but let me know.
+
+I prefixed syntax items with "mk_" because Pro/E files are largely used for 'Mapkeys'.
+However, some of the syntax items here apply to general Pro/E syntax.
+
+There is no vocabulary built in.  I was unable to download a good list of commands.  This documentation for Wildfire 2 is in PDF form, and translating to text and HTML both fail miserably for me.
+ http://www.cad-resources.com/WF2_configuration_options.pdf
+
+I'm confused as to why the tildes ~ and the 'mapkey(continued) ' markings were necessary to the syntax... thoughts, anyone?
+
